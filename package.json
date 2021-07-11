@@ -5,6 +5,7 @@
     "version": "0.1.0",
     "publisher": "JohnWordsworth",
     "author": "John Wordsworth",
+    "icon": "icon.png",
     "license": "MIT",
     "engines": {
         "vscode": "^1.58.0"
@@ -25,5 +26,10 @@
                 "path": "./themes/stellaris-color-theme.json"
             }
         ]
+    },
+    "homepage": "https://github.com/JohnWordsworth/stellaris-vscode-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JohnWordsworth/stellaris-vscode-theme/"
     }
 }

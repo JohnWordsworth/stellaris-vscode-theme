@@ -1,3 +1,14 @@
+#####
+# Added by the colour theme creator script
+#####
+
+node_modules/
+*.vsix
+
+#####
+# Added by GitHub for 'node' projects
+#####
+
 # Logs
 logs
 *.log

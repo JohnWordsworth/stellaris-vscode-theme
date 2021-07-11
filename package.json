@@ -1,0 +1,29 @@
+{
+    "name": "stellaris-vscode-theme",
+    "displayName": "Stellaris VS Code Theme",
+    "description": "A color-theme inspired by the Stellaris grand-strategy game by Paradox Interactive.",
+    "version": "0.1.0",
+    "publisher": "JohnWordsworth",
+    "author": "John Wordsworth",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "stellaris"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stellaris VS Code Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stellaris-color-theme.json"
+            }
+        ]
+    }
+}

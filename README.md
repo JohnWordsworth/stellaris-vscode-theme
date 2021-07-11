@@ -10,7 +10,7 @@ The theme is designed around the green/orange colour theme of Stellaris but also
 ## Preview
 
 <div align="center">
-	[Preview Image](/docs/theme-preview.png "Stellaris VS Code Theme Preview")]
+	<img src="/docs/theme-preview.png" title="Stellaris VS Code Theme Preview" />
 </div>
 
 

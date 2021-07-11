@@ -2,7 +2,7 @@
     "name": "stellaris-vscode-theme",
     "displayName": "Stellaris VS Code Theme",
     "description": "A color-theme inspired by the Stellaris grand-strategy game by Paradox Interactive.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "JohnWordsworth",
     "author": "John Wordsworth",
     "icon": "icon.png",

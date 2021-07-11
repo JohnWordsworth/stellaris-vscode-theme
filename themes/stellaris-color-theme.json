@@ -13,7 +13,7 @@
 		"button.border": "#3CbF90",
 		"editor.background": "#0f1814",
 		"editor.foreground": "#c3d0c9",
-		"editorLineNumber.foreground": "#73D9B0",
+		"editorLineNumber.foreground": "#3CbF90",
 		"editorLineNumber.activeForeground": "#D69123",
 		"editor.selectionBackground": "#463216",		
 		"editorGroupHeader.tabsBackground": "#1B2822",

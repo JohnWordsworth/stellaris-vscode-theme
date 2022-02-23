@@ -5,7 +5,6 @@
 	"colors": {
 		"foreground": "#bbb",
 		"focusBorder": "#2C704D80",
-
 		"activityBar.background": "#1B2822",
 		"activityBar.foreground": "#6CFDDE",
 		"activityBarBadge.background": "#0b9248",
@@ -16,6 +15,7 @@
 		"editorLineNumber.foreground": "#3CbF90",
 		"editorLineNumber.activeForeground": "#D69123",
 		"editor.selectionBackground": "#463216",		
+		"editor.selectionHighlightBackground": "#2b6b6da1",
 		"editorGroupHeader.tabsBackground": "#1B2822",
 		"editorWidget.background": "#224433e0",
 		"editorWidget.resizeBorder": "#73D9B0",
